@@ -26,4 +26,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 I had a problem installing CocoaPods since I was using a Apple Silicon chip computer. I solved the problem by running Rosetta on Terminal and installing Ruby FFI.
